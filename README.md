@@ -1,7 +1,8 @@
 # Can you implement CRUD?
 ## Evaluated skills
+### Screenshot ➡ [Click Here](#screenshot)
 
-Create a RESTful web API using Node, Express and MongoDB
+✔️ Create a RESTful web API using Node, Express and MongoDB
 
 ## Description 
 
@@ -84,7 +85,12 @@ With your server running, click the `TEST ROUTES` button to run the tests. These
 **When all tests pass successfully, a secret word is displayed. Which of the following is that secret word?**
 
 - [ ] GIRAFFE
-- [ ] GORILLA
+- [x] GORILLA ✔️
 - [ ] ELEPHANT
 - [ ] ZEBRA
+
+<div id="screenshot" align="center">
+  <h1>Screenshot</h1>
+<img src="https://user-images.githubusercontent.com/73438491/124816738-b645b780-df1d-11eb-9b96-0225c93909c7.png" />
+  </div>
 
