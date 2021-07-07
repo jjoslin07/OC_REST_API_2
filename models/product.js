@@ -16,7 +16,7 @@ const productSchema = mongoose.Schema({
     inStock: {
         type: Boolean,
         required: true
-    },
+    }
 });
 
 module.exports = mongoose.model('Product', productSchema);
